@@ -1,2 +1,4 @@
-# number_to_text
-Converter number to text with Vietnamese
+# Number to Text Coverter
+Converter number to text with Vietnamese  
+
+![prevew](preview.png)

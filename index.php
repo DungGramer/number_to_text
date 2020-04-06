@@ -306,7 +306,7 @@
     <div class="container">
         <div class="content">
             <h1>Chuyển Đổi Số Thành Chữ</h1>
-            <form action="readnumberIndex.php" method="get">
+            <form action="index.php" method="get">
                 <div class="group">
                     <input type="text" name="number" id = "text"required>
                     <span class="highlight"></span>

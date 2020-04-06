@@ -2,6 +2,6 @@
 Converter number to text with Vietnamese  
 
 ## Demo
-https://repl.it/@DungGramer/numbertotext
-  
+<a target="_blank">https://repl.it/@DungGramer/numbertotext</a>
+## Preview
 ![prevew](preview.png)

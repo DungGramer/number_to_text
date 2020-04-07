@@ -316,7 +316,7 @@
                 <input type="submit" value="Chuyển đổi" id="submit">
                 <?php
                 echo "<div class='result'>";
-                if($_GET["number"] >= 0 && $_GET["number"] <= 999999999999){
+                if(isset($_GET["number"]) && $_GET["number"] >= 0 && $_GET["number"] <= 999999999999){
 
                     echo "<p>Kết quả: </p>";
                     echo "<p>" .$_GET["number"] . "<br /></p>";
